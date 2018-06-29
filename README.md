@@ -13,3 +13,6 @@
 服务器仅在启动时读取文件目录，不支持实时更新文件列表。
 * `客户端`：运行startClient下的main方法启动客户端，在登录界面中输入服务器的IP地址和端口号，连接成功即可进入文件传输界面。
 ### Screenshot
+* `服务器控制台输出`</br></br> ![](https://github.com/jaychunkid/File-Transfer/raw/master/screenshot/server.PNG) </br></br>
+* `客户端登录界面`</br></br> ![](https://github.com/jaychunkid/File-Transfer/raw/master/screenshot/client1.PNG) </br></br>
+* `客户端文件传输界面`</br></br> ![](https://github.com/jaychunkid/File-Transfer/raw/master/screenshot/client2.PNG) </br></br>
